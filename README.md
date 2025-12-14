@@ -55,7 +55,6 @@ WAVEFORM:
 ![WhatsApp Image 2025-12-14 at 8 25 50 PM](https://github.com/user-attachments/assets/30e2bb1f-f4f8-4a5a-b84a-617ddbd5a903)
 
 TABULAR COLUMN
-
  Half wave Rectifier:
  
 | **Input Voltage** |        | **Output Voltage (Without Filter)** |        | **Output Voltage (With Filter)** |        |
