@@ -38,15 +38,31 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
-Bridge rectifier with filter:
-
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+![WhatsApp Image 2025-12-14 at 8 25 40 PM](https://github.com/user-attachments/assets/07aaa749-6166-4ffa-baf3-904b08b5aafa)
 
 WAVEFORM:
 
+![WhatsApp Image 2025-12-14 at 8 28 53 PM](https://github.com/user-attachments/assets/96bde256-aaf2-455d-a1f9-ce4e15ee15d1)
+
+Bridge rectifier with filter:
+
+![WhatsApp Image 2025-12-14 at 8 25 39 PM (1)](https://github.com/user-attachments/assets/8db10fd5-0da0-4b54-a1ed-69d69e549bad)
+
+WAVEFORM:
+
+![WhatsApp Image 2025-12-14 at 8 25 50 PM](https://github.com/user-attachments/assets/30e2bb1f-f4f8-4a5a-b84a-617ddbd5a903)
+
+TABULAR COLUMN
+Rectifier without filter:
+
+
+| **Input Voltage** |        | **Output Voltage (Without Filter)** |        | **Output Voltage (With Filter)** |        |
+|-------------------|--------|-------------------------------------|--------|----------------------------------|--------|
+| **Vm (V)**        | **t (ms)** | **Vm (V)**                        | **t (ms)** | **Vm (V)**                     | **t (ms)** |
+| 100               | 20     | 100                                 | 10     | 100 V, 5 V                      | 5 ms, 25 ms |
+
+TABULAR COLUMN
+Rectifier with filter
 
 RESULT:
 
