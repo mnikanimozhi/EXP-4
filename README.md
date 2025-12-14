@@ -47,6 +47,7 @@ WAVEFORM:
 ![WhatsApp Image 2025-12-14 at 8 28 53 PM](https://github.com/user-attachments/assets/96bde256-aaf2-455d-a1f9-ce4e15ee15d1)
 
 Full wave rectifier :
+
 ![WhatsApp Image 2025-12-14 at 8 25 39 PM (1)](https://github.com/user-attachments/assets/8db10fd5-0da0-4b54-a1ed-69d69e549bad)
 
 WAVEFORM:
