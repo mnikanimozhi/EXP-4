@@ -59,8 +59,8 @@ Rectifier without filter:
 | **Input Voltage**          | **Output Voltage**        |
 |                            |**Without Filter**       |** With Filter** |
 |-------------------|--------|-------------------------------------|--------|----------------------------------|--------|
-| **Vm (V)**        | **t (ms)** | **Vm (V)**                        | **t (ms)** | **Vm (V)**                     | **t (ms)** |
-| 100               | 20     | 100                                 | 10     | 100 V, 5 V                      | 5 ms, 25 ms |
+| **Vm (V)**        | **t (ms)** | **Vm (V)**     | **t (ms)** | **Vm (V)**  | **t (ms)** |
+| 100               | 20     | 100                | 10     | 100 V, 5 V      | 5 ms, 25 ms |
 
 TABULAR COLUMN
 Rectifier with filter
