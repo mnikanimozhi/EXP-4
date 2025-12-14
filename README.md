@@ -60,9 +60,6 @@ TABULAR COLUMN
 
 TABULAR COLUMN
 Full wave Rectifier :
-
-## Tabular Column
-
 | **Input Voltage** |        | **Output Voltage (Without Filter)** |        | **Output Voltage (With Filter)** |        |
 |-------------------|--------|-------------------------------------|--------|----------------------------------|--------|
 | **Vm (V)**        | **t (ms)** | **Vm (V)**                        | **t (ms)** | **Vm (V)**                     | **t (ms)** |
