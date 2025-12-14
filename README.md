@@ -63,6 +63,13 @@ Rectifier without filter:
 TABULAR COLUMN
 Rectifier with filter
 
+## Tabular Column
+
+| **Input Voltage** |        | **Output Voltage (Without Filter)** |        | **Output Voltage (With Filter)** |        |
+|-------------------|--------|-------------------------------------|--------|----------------------------------|--------|
+| **Vm (V)**        | **t (ms)** | **Vm (V)**                        | **t (ms)** | **Vm (V)**                     | **t (ms)** |
+| 50               | 20     | 50                                 | 5     | 50 V, 46 V                      | 5 ms, 14 ms |
+
 RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
